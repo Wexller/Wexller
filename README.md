@@ -30,7 +30,7 @@ Background includes work across teams at Samolet Group, CodeArmor, and JD Sports
 ## Selected Work
 
 ### Real Estate Platform
-`Private case study` · `Senior Frontend Developer` · `Vue 2/3, Nuxt, TypeScript`
+`Commercial case study` · `Senior Frontend Developer` · `Vue 2/3, Nuxt, TypeScript`
 
 - Prototyped a migration path from a monolithic local setup to a Nuxt-based frontend workflow with API proxying and authenticated development against a shared dev backend.
 - Removed the need to run the monolith and local database for day-to-day frontend work, cutting local startup from tens of minutes to a few minutes.
@@ -38,7 +38,7 @@ Background includes work across teams at Samolet Group, CodeArmor, and JD Sports
 - The new setup contributed to a measured team development speed increase of more than 10%.
 
 ### DevSecOps Dependency Graph
-`Private case study` · `Senior Frontend Developer` · `Vue 3, TypeScript, Pinia`
+`Commercial case study` · `Senior Frontend Developer` · `Vue 3, TypeScript, Pinia`
 
 - Built an interactive dependency graph MVP from scratch for large library trees, including hierarchical rendering and expand/collapse behavior.
 - Learned SVG and tree-layout tooling from the ground up, selected `d3-hierarchy`, and iterated through multiple prototypes to find a stable implementation approach.
