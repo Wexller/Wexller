@@ -48,7 +48,7 @@ Background includes work across teams at Samolet Group, CodeArmor, and JD Sports
 ### hash7-backtest
 `Public project` · `Vue 3, TypeScript`
 
-[![hash7-backtest card](https://github-readme-stats.vercel.app/api/pin/?username=Wexller&repo=hash7-backtest&hide_border=true)](https://github.com/Wexller/hash7-backtest)
+[![hash7-backtest card](https://github-readme-stats.vercel.app/api/pin/?username=Wexller&repo=hash7-backtest&hide_border=true&description_lines_count=2&cache_seconds=21600&v=2)](https://github.com/Wexller/hash7-backtest)
 
 - Backtesting tool for comparing grid-trading strategies against historical market data with a live demo and a complete project README.
 - Good example of hands-on product engineering with a modern Vue stack, clear project structure, and deployable frontend delivery.
