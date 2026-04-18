@@ -19,13 +19,6 @@
 
 Background includes work across teams at Samolet Group, CodeArmor, and JD Sports.
 
-## GitHub Snapshot
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Wexller&show_icons=true&hide_border=true&rank_icon=github" alt="Wexller GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wexller&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="165" />
-</p>
-
 ## Core Expertise
 
 - Frontend: TypeScript, JavaScript, Vue 2/3, Nuxt 3, React, HTML, CSS
