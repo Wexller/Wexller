@@ -1,6 +1,13 @@
 <h1 align="center">Maxim Davydov</h1>
 <p align="center"><strong>Senior Frontend Developer</strong> focused on product impact, frontend architecture, and performance.</p>
 <p align="center">TypeScript • Vue • Nuxt • SSR/SEO • DX • Design Systems</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
 
 ## About
 
@@ -11,6 +18,13 @@
 - Based in Georgia and open to senior frontend, platform, and product-focused opportunities.
 
 Background includes work across teams at Samolet Group, CodeArmor, and JD Sports.
+
+## GitHub Snapshot
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wexller&show_icons=true&hide_border=true&rank_icon=github" alt="Wexller GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wexller&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="165" />
+</p>
 
 ## Core Expertise
 
@@ -40,6 +54,8 @@ Background includes work across teams at Samolet Group, CodeArmor, and JD Sports
 
 ### hash7-backtest
 `Public project` · `Vue 3, TypeScript`
+
+[![hash7-backtest card](https://github-readme-stats.vercel.app/api/pin/?username=Wexller&repo=hash7-backtest&hide_border=true)](https://github.com/Wexller/hash7-backtest)
 
 - Backtesting tool for comparing grid-trading strategies against historical market data with a live demo and a complete project README.
 - Good example of hands-on product engineering with a modern Vue stack, clear project structure, and deployable frontend delivery.
